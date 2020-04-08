@@ -5,9 +5,9 @@
 Medical-Supply Monitoring and Particulars Tools built by Team SIESGST for E-Yantra 2020
 
 ## About The Project
-<h1 align="center">
+<div align="center">
 <img src="FrontEnd/about.png">
-</h1>
+</div>
 <br/>
 After a brief conversation with a WHO doctor, we aimed our project towards solving one of the major problems faced by all medical professionals and the common man alike, that is the inaccessibility of medical supplies due to inefficiency of data management. Supplies are available, but unfortunately what is lacking is the easy to access information on where exactly are they available. Our main focus while developing this system has been towards getting an accurate data at high computation speeds while ensuring maximum ease of access for the simplest of users.
 
@@ -41,9 +41,9 @@ After a brief conversation with a WHO doctor, we aimed our project towards solvi
 * SQLite3 Database
 
 ### Architecture
-<h1 align="center">
+<div align="center">
 <img src="FrontEnd/arch.png" align="center" width="50%">
-</h1>
+</div>
 
 ## License
  - NA
