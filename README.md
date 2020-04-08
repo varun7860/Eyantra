@@ -9,7 +9,7 @@ Medical-Supply Monitoring and Particulars Tools built by Team SIESGST for E-Yant
 <img src="FrontEnd/about.png">
 </h1>
 <br/>
-Our Project aims on solving one of the major problems faced by doctors, medical professionals and the common man alike that is the unavailability of medical supplies due to inefficiency of data management. We direct our project towards getting everyone accurate data at high speed while ensuring maximun ease of access for the simplest of users.
+After a brief conversation with a WHO doctor, we aimed our project towards solving one of the major problems faced by all medical professionals and the common man alike, that is the inaccessibility of medical supplies due to inefficiency of data management. Supplies are available, but unfortunately what is lacking is the easy to access information on where exactly are they available. Our main focus while developing this system has been towards getting an accurate data at high computation speeds while ensuring maximum ease of access for the simplest of users.
 
 ### Modules of the Project
  - **Python user interface for medical stores and hospitals**
