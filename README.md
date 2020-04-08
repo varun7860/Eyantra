@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="FrontEnd/logo.png" height="200" align="center">
+	<img src="FrontEnd/logo.png" height="200" align="center"><br>
 Medical-Supply Monitoring and Particulars Tools built by Team SIESGST for E-Yantra 2020
 </div>
 
