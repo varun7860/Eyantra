@@ -1,11 +1,11 @@
-<h1>
+<h1 align="center">
 	<img src="FrontEnd/logo.png" height="72" align="center">
 </h1>
 
 Medical-Supply Monitoring and Particulars Tools built by Team SIESGST for E-Yantra 2020
 
 ## About The Project
-<center><img src="FrontEnd/Diagram2.png"></center>
+<img src="FrontEnd/Diagram2.png"  align="center">
 <br/>
 Our Project aims on solving one of the major problems faced by doctors, medical professionals and the common man alike that is the unavailability of medical supplies due to inefficiency of data management. We direct our project towards getting everyone accurate data at high speed while ensuring maximun ease of access for the simplest of users.
 
@@ -39,6 +39,7 @@ Our Project aims on solving one of the major problems faced by doctors, medical 
 * SQLite3 Database
 
 ### Architecture
-<center><img src="FrontEnd/diagram.png"></center>
+<img src="FrontEnd/diagram.png" align="center" width="50%">
+
 ## License
  - NA
