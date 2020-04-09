@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="FrontEnd/logo.png" height="200" align="center">
 <br/>
-Medical-Supply Monitoring and Particulars Tool built for E-Yantra 2020
+Medical-Supply Monitoring and Particulars Tool built for  E-Yantra 2020
 </div>
 
 ## About The Project
