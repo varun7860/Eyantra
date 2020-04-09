@@ -44,7 +44,7 @@ After a brief conversation with a WHO doctor, we aimed our project towards solvi
 <div align="center">
 <img src="images/arch.png" align="center" width="50%">
 </div>
-
+<br><br><br>
 <div align="center">
 
 ## YouTube Video
