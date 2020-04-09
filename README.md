@@ -47,6 +47,8 @@ After a brief conversation with a WHO doctor, we aimed our project towards solvi
 
 <div align="center">
 ## YouTube Video
-[![COVID19supplies Youtube Video](http://img.youtube.com/vi/m-LCSXu1CUE/0.jpg)](https://youtu.be/m-LCSXu1CUE)
+
+<div align="center">
+<a href="https://youtu.be/m-LCSXu1CUE"><img src="http://img.youtube.com/vi/m-LCSXu1CUE/0.jpg" align="center" width="50%"></a>
 </div>
 
