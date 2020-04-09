@@ -45,7 +45,7 @@ After a brief conversation with a WHO doctor, we aimed our project towards solvi
 <img src="images/arch.png" align="center" width="50%">
 </div>
 
-## Youtube Video
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/m-LCSXu1CUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Youtube Video Link
+ - [![COVID19supplies Youtube Video](http://img.youtube.com/vi/m-LCSXu1CUE/0.jpg)](https://youtu.be/m-LCSXu1CUE)
 
 
