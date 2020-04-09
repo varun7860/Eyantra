@@ -1,12 +1,12 @@
 <div align="center">
-	<img src="FrontEnd/logo.png" height="200" align="center">
+	<img src="images/logo.png" height="200" align="center">
 <br/>
-Medical-Supply Monitoring and Particulars Tool built for  E-Yantra 2020
+Medical supply monitoring tool for the Government of India (E-Yantra Covid Challenge 2020)
 </div>
 
 ## About The Project
 <div align="center">
-<img src="FrontEnd/about.png">
+<img src="images/about.png">
 </div>
 <br/>
 After a brief conversation with a WHO doctor, we aimed our project towards solving one of the major problems faced by all medical professionals and the common man alike, that is the inaccessibility of medical supplies due to inefficiency of data management. Supplies are available, but unfortunately what is lacking is the easy to access information on where exactly are they available. Our main focus while developing this system has been towards getting an accurate data at high computation speeds while ensuring maximum ease of access for the simplest of users.
@@ -42,8 +42,10 @@ After a brief conversation with a WHO doctor, we aimed our project towards solvi
 
 ### Architecture
 <div align="center">
-<img src="FrontEnd/arch.png" align="center" width="50%">
+<img src="images/arch.png" align="center" width="50%">
 </div>
 
-## License
- - NA
+## Youtube Video
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/m-LCSXu1CUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
