@@ -48,6 +48,6 @@ After a brief conversation with a WHO doctor, we aimed our project towards solvi
 ## YouTube Video
 
 <div align="center">
-<a href="https://youtu.be/m-LCSXu1CUE"><img src="http://img.youtube.com/vi/m-LCSXu1CUE/0.jpg" align="left" width="50%"></a>
+<a href="https://youtu.be/m-LCSXu1CUE"><img src="http://img.youtube.com/vi/m-LCSXu1CUE/0.jpg" align="left" width="25%"></a>
 </div>
 
